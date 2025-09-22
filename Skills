@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial - scale=1.0">
+        <title>Skills</title>
+    </head>
+   
+    
+<!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Epunda+Slab:ital,wght@0,300..900;1,300..900&family=Poppins&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+
+<div class="abot">
+<h2 class="se">TECHNICAL SKILLS</h2>
+</div>
+
+<div class="or">
+<div class="sk">
+<p>1. HTML</p>
+<p>2. CSS</p>
+<p>3. JAVASCRIPT</p>
+<p>4. SQL - MYSQL</p>
+<p>5. Git and GitHub</p>
+
+
+</div>
+
+</div>
+
+
+<div class="or">
+<div class="sk">
+<p>6. CANVA</p>
+<p>7. AutoCad</p>
+<p>8. CATIA V5</p>
+<p>9. MS Office</p>
+
+
+</div>
+</div>
+
+<img class= tech2 src="img/technology-3.jpg" width="300px" height="230px"></img>
+
+
+<div class="abot">
+<h2 class="ol">ADDITIONAL SKILLS</h2>
+</div>
+
+
+<div class="sk">
+    
+<img class= "bl" src="img/technology-2.jpg" width="300px" height="230px"></img>
+
+<div class="sa">
+<p>1. VS Code - for practice coding</p>
+<p>2. Netlify - for deploying codes</p>
+<p>3. OBS Studio - for screen record</p>
+<p>4. ChatGPT - for AI knowledge</p>
+<p>5. InShot - for editing videos</p>
+<p>6. NeoCities - to host websites</p>
+
+</div>
+
+
+</div>
+
+<div class="abot">
+<h2 class="ol">PERSONAL SKILLS</h2>
+</div>
+
+
+<div class="sk">
+<div class="sb">
+
+<p>1. Time Management</p>
+<p>2. Problem Solving Ability - finding solutions to technical issues</p>
+<p>3. Analytical Thinking - breaking down complex problems</p>
+<p>4. Attention to Detail - debugging and ensuring accuracy</p>
+<p>5. Logical Thinking - evaluating different approaches logically</p>
+<p>6. Creativity & Innovation - developing new ideas and solutions</p>
+
+</div>
+
+
+<button class="btn1"onclick=change1()>Next Page</button>
+
+
+</html>
+
+<script src="index.js"></script>
