@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial - scale=1.0">
+        <title>Projects</title>
+    </head>
+  
+    
+<!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Epunda+Slab:ital,wght@0,300..900;1,300..900&family=Poppins&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+
+
+
+<link rel="stylesheet" href="style.css">
+
+
+<body class="bdy">
+<div class="abot">
+<h2 class="se">PROJECTS</h2>
+
+
+
+<div class="re">
+<h3>1. Online-Shopping Website</h3>
+</div>
+
+
+<p class="ke"> Built Using : HTML, CSS, JavaScript</p>
+<p class="ke">Online shopping website is designed using HTML, CSS, and JavaScript, showcasing a modern and responsive layout that works seamlessly across devices. It features an interactive navigation bar, stylish product sections such as New Arrivals and Most Wanted, and a user-friendly design that enhances the shopping experience. With smooth styling in CSS and interactive JavaScript functions for navigation and buttons, the site offers a professional e-commerce feel. It also includes a newsletter subscription section, customer service highlights, and a clean footer for branding and social media links. This project demonstrates core front-end web development skills while simulating the look and feel of a real e-commerce platform.</p>
+<a class="ae" href="https://alwinj.neocities.org/Online%20shopping/home">hhtps://Online Shopping.com</a>
+
+
+<img class="vd" src="img/Online Shopping.jpeg"></img>
+</div>
+
+
+<div class="ze">
+<h3>2. Aviation Materials Website</h3>
+</div>
+
+<p class="ne"> Built Using : HTML, CSS, JavaScript</p>
+<p class="ne">This project is a dedicated Aviation Materials website developed using HTML, CSS, and JavaScript to present and showcase innovative research in aerospace materials. The website highlights the design and simulation of advanced composite materials, providing sections for project details, test results, and applications in aviation. With a responsive layout and interactive elements, it ensures smooth navigation and professional presentation across devices. The site combines technical content with modern web design, serving as both an informative platform and a demonstration of front-end development skills.</p>
+<a class="ae" href="https://alwinj.neocities.org/Aviation%20materials/">hhtps://Aviation Materials.com</a>
+
+
+<img class="vd2" src="img/Aviation Materials.jpeg" ></img>
+
+</div>
+
+
+<div class="zeb">
+<h3>3. Innovative Fiber Composite for Aircraft Issues </h3>
+</div>
+
+
+<p class="neb"> Built Using : CATIA V5, ANSYS, CANVA</p>
+<p class="neb">Developed innovative fiber composite solutions to address material challenges in aircraft by analyzing test results and implementing optimized designs. The composites were designed using CATIA for precise modeling and simulated in ANSYS to evaluate performance under real-world conditions. These solutions delivered enhanced material durability and reliability, effectively replacing conventional materials with advanced alternatives that improve structural efficiency, reduce weight, and extend service life in aviation applications.</p>
+<a class="neba" href="docs/Aviation Materials.pdf" target="_blank">Innovative Fiber Composite for Aircraft Issues View PDF</a>
+</div>
+
+</div>
+
+
+<div class="abot">
+<h2 class="fe">CERTIFICATIONS</h2>
+
+
+
+<div class="ce">
+<h3>1. C Cube Technologies Certified CATIA V5 Designer</h3>
+<a href="https://www.linkedin.com/posts/alwin-j-aerospace_im-happy-to-share-that-i-have-successfully-activity-7375133339457871872-azHE?utm_source=share&utm_medium=member_android&rcm=ACoAAEw8lxMBPhX7PqIaQJ3YCVto7Wrhxgc2qdM">Alwin | CATIA Certificate</a>
+</div>
+
+
+<div class="ce2">
+<h3>2. C Cube Technologies Certified AUTOCAD Designer</h3>
+<a href="https://www.linkedin.com/posts/alwin-j-aerospace_im-happy-to-share-that-i-have-successfully-activity-7375137547624300544-rRt_?utm_source=share&utm_medium=member_android&rcm=ACoAAEw8lxMBPhX7PqIaQJ3YCVto7Wrhxgc2qdM">Alwin | AUTOCAD Certificate</a>
+</div>
+
+
+<div class="footer">
+  
+     <h1 class="foot">THANK YOU !!</h1>
+
+    </div>
+
+
+</div>
+
+</body>
+
+</html>
